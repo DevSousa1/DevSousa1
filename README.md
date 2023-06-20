@@ -1,4 +1,4 @@
-### Olá! Eu sou Luiz Sousa 😉
+Sp### Olá! Eu sou Luiz Sousa 😉
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz_henriiq12/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SousaCode)
@@ -6,7 +6,7 @@
 
 ![LuizSousa GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSousa1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSousa1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
