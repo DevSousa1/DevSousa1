@@ -7,14 +7,9 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=sousacode&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousacode&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=sousacode&show_icons=true&theme=dark"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousacode&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
-## O que estou aprendendo ↓
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Tecnologias que uso no meu dia ↓
 
